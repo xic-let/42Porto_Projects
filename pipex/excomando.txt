@@ -1,0 +1,2 @@
+./pipex input1.txt "grep is" "wc -l" output2.txt   
+
